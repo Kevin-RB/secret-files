@@ -6,7 +6,7 @@
  
  ## Goal
  
- ## Live at
+ ## available at
  https://secretfolders.netlify.app
  
   ## About
@@ -18,6 +18,8 @@
     "bootstrap": "^4.5.3",
   
  ## Gallery
+
+![Home-secret-folders](https://user-images.githubusercontent.com/69731479/110893968-fde86980-82c4-11eb-96a0-361fbf78bf3d.gif)
 
  ## Installation
   - Download the proyect
