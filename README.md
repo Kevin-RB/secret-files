@@ -6,12 +6,12 @@
  
  ## Goal
  
- ## About
+ ## Live at
+ https://secretfolders.netlify.app
+ 
+  ## About
  Built in: 
   - Javascript
-
-## Live at
- https://secretfolders.netlify.app
  
  Dependencies:
  
