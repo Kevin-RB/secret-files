@@ -14,7 +14,8 @@ Secret folders is an interactive video project, its purpose is to tell the story
  Dependencies:
  
     "bootstrap": "^4.5.3",
-  
+    "jquery": "3.5.1"
+    
  ## Gallery
 
 ![Home-secret-folders](https://user-images.githubusercontent.com/69731479/110893968-fde86980-82c4-11eb-96a0-361fbf78bf3d.gif)
