@@ -1,8 +1,8 @@
 # secret-folders
-Secret folders is an interactive video project, its purpose is to tell the story behind a news story that uncovered cases of corruption in the army in an interactive way.
+Secret folders is an interactive video project, its purpose is to tell the story behind a story that discovered cases of corruption in the army in an interactive way. This project has 3 chapters, where at the end of each one the user must make a decision to advance to the next one, if the decision is correct, the user will earn points, otherwise they will not earn points and will lose their streak.
  
  ## Goal
- create an interactive video project with multiple decision making
+ create an interactive video project with multiple decision making.
  
  ## available at
  https://secretfolders.netlify.app
