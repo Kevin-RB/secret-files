@@ -12,6 +12,7 @@ Secret folders is an interactive video project, its purpose is to tell the story
   - Javascript: ES6
   - HTML: 5
   - Css: 3
+  - Adobe aftereffects
  
  Dependencies:
  
